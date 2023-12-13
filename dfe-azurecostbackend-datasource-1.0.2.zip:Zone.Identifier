@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://github.com/
+HostUrl=https://objects.githubusercontent.com/github-production-release-asset-2e65be/725151959/aa4cb657-ddd4-40e2-8553-5616b90c5c32?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231213%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231213T085013Z&X-Amz-Expires=300&X-Amz-Signature=44774e573a805b52e6feff4469cf9661cb90eb77276326d26894dfa0400207d8&X-Amz-SignedHeaders=host&actor_id=111495215&key_id=0&repo_id=725151959&response-content-disposition=attachment%3B%20filename%3Ddfe-azurecostbackend-datasource-1.0.2.zip&response-content-type=application%2Foctet-stream
